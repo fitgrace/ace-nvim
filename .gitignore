@@ -1,0 +1,12 @@
+# In your personal fork, you likely want to comment this, since it's recommended to track
+# lazy-lock.json
+
+# IDE
+*.swp
+*.swo
+
+# Debug logs
+*.log
+
+# OS files
+.DS_Store
